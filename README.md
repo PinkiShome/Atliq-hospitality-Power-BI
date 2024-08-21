@@ -7,6 +7,7 @@ However, they do not have an in-house data analytics team to provide them with t
 Their revenue management team had decided to hire a 3rd party service provider to provide them insights from their historical data.
 
 Task List
+
 You are a data analyst who has been provided with sample data and a mock-up dashboard to work on the following task. You can download all relevant documents from the download section.
 
 Create the metrics according to the metric list.
